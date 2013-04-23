@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vocal Artist</string>
+    <string name="action_settings">Settings</string>
+    <string name="fanfan">Christine Fan ( 范玮琪）</string>
+    <string name="song1">Shall I be not brave(可不可以不勇敢)</string>
+    <string name="song2">The very first dream(最初的梦想 )   </string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="restart">Restart</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="video1">-Can not reach</string>
+    <string name="video2">-Most important decision</string>
+    <string name="play">Play</string>
+    <string name="songs">--Songs:</string>
+    <string name="videos">--Videos:</string>
+    <string name="cannot_reach">-Can not reach (到不了）</string>
+    <string name="title_activity_video_activity2">VideoActivity2</string>
+    <string name="most_important_decision">-Most important decision(最重要的决定）</string>
+    <string name="back">Back</string>
+    <string name="send">Send Email</string>
+    <string name="title_activity_wallpaper">Wallpaper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="wallpaper">See all wallpapers</string>
+
+</resources>
